@@ -21,4 +21,17 @@ Instalation #03
 
 Workfolw
 
-1. 
+1. Creating business-cards.php
+- Do the documatation
+- Register styles and scripts
+- Register new post type
+- adding custom metabox
+- do the metabox admin front end 
+- register shortcode [business-cards-plugin]
+- do the frond end
+- adding image column in CPT list view and conncting
+
+
+
+
+
